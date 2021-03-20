@@ -1,0 +1,1 @@
+# python basic practice 문제 6
