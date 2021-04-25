@@ -1,1 +1,0 @@
-# practice loop 1 문제9
