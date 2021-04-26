@@ -1,1 +1,0 @@
-# practice loop 보너스문제 2
